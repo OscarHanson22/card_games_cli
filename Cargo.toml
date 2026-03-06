@@ -1,0 +1,8 @@
+[package]
+name = "go_fish"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ordinal = "0.3.2"
+rand = "0.8.5"
